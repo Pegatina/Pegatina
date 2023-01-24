@@ -4,6 +4,7 @@
 ### Eng:
 
 👱🏼‍♀️💻 I'm Lau from Madrid (Spain).<br>
+https://github.com/Pegatina/Portfolio
 This is my repository, which contains the most remarkable projects I have done so far.
 
 <h3>More about me:</h3>
@@ -22,6 +23,7 @@ This is my repository, which contains the most remarkable projects I have done s
 ___
 ### Esp:
 👱🏼‍♀️💻 Me llamo Lau, soy de Madrid (España).<br>
+https://github.com/Pegatina/Portfolio
 Este es mi repositorio, que contiene los proyectos más destacables que he hecho hasta ahora. 
 
 <h3>Más sobre mí:</h3>
