@@ -4,23 +4,33 @@
 ### Eng:
 
 👱🏼‍♀️💻 I'm Lau from Spain.<br>
-https://github.com/Pegatina/Portfolio
-This is my repository, which contains the most remarkable projects I did when I was studing DAW.
+https://pegatina-portfolio.netlify.app/
+https://github.com/Pegatina/portfolio-app
+In this web, I'll link my newest projects
+
+For the rest of the projects, you can go to:
+https://github.com/Pegatina/DAW-Portfolio 
+it's the repository that contains the most remarkable projects I did in my studies.
 
 <h3>More about me:</h3>
 
-- 🌱 I’m currently learning Web Development (JavaScript & PHP)
+- 🌱 I’m currently learning Web Development (JavaScript React and Typescript)
 - 📫 You can find me in Linkedin <a href="https://www.linkedin.com/in/laupegatina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="15" /></a>
 - ⚡ Fun fact: I'm also Illustrator and Ceramist ☺ ¡I love art!
 ___
 ### Esp:
 👱🏼‍♀️💻 Me llamo Lau, soy española.<br>
-https://github.com/Pegatina/Portfolio
-Este es mi repositorio, que contiene los proyectos más destacables que he hecho hasta ahora. 
+https://pegatina-portfolio.netlify.app/
+https://github.com/Pegatina/portfolio-app
+En esta web iré subiendo mis proyectos más nuevos.
+
+Para ver el resto de los proyectos que hice, puedes ir a:
+https://github.com/Pegatina/DAW-Portfolio 
+es el repositorio que contiene los proyectos más destacables que hice estudiando.
 
 <h3>Más sobre mí:</h3>
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web (JavaScript y PHP)
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web (JavaScript React and Typescript)
 - 📫 Me puedes encontrar en Linkedin <a href="https://www.linkedin.com/in/laupegatina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="15" /></a>
 - ⚡ Dato curioso: También soy Ilustradora y Ceramista ☺ ¡Adoro el arte!
 
