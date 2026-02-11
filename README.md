@@ -14,7 +14,7 @@ it's the repository that contains the most remarkable projects I did in my studi
 
 <h3>More about me:</h3>
 
-- 🌱 I’m currently learning Web Development (JavaScript React and Typescript)
+- 🌱 I’m currently learning Web Development (JavaScript React, Vue 2 and Typescript)
 - 📫 You can find me in Linkedin <a href="https://www.linkedin.com/in/laupegatina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="15" /></a>
 - ⚡ Fun fact: I'm also Illustrator and Ceramist ☺ ¡I love art!
 ___
@@ -30,7 +30,7 @@ es el repositorio que contiene los proyectos más destacables que hice estudiand
 
 <h3>Más sobre mí:</h3>
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web (JavaScript React and Typescript)
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web (JavaScript React, Vue 2 y Typescript)
 - 📫 Me puedes encontrar en Linkedin <a href="https://www.linkedin.com/in/laupegatina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="15" /></a>
 - ⚡ Dato curioso: También soy Ilustradora y Ceramista ☺ ¡Adoro el arte!
 
